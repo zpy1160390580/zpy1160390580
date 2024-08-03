@@ -11,7 +11,7 @@
 
 
 <!--  Github活跃时间  -->
-<img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&bg_color=000000&color=ff9500&line=33a7ff&point=403d3d&area=true&hide_border=true" width= “20”/>
+<img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&bg_color=000000&color=ff9500&line=33a7ff&point=403d3d&area=true&hide_border=true" width= “6000”/>
 
 
 
