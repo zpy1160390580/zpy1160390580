@@ -1,13 +1,4 @@
 🌱 I’m [Yibeijiu](https://github.com/zpy1160390580/).
-累计访问次数：![Visitor's Count](https://profile-counter.glitch.me/zpy1160390580/count.svg)
-
-
-![](https://komarev.com/ghpvc/?username=zpy1160390580&style=flat)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJVQRKyjDVBWXFz7XyKZHFw)
-[![My blog](https://img.shields.io/badge/My_Blog-blue)](https://www.cnblogs.com/yibeijiu)
-[![微信公众号](https://img.shields.io/badge/Subscriptions-blue)](https://cdn.jsdelivr.net/gh/zpy1160390580/ybj-PicGo-picture-bed/images/OfficialAccounts/operate/查找公众号.png)
-[![数字名片](https://img.shields.io/badge/Card-blue)](https://link3.cc/yibeijiu)
-
 
 <p align="center">
   仓库累计访问次数：<img src="https://profile-counter.glitch.me/zpy1160390580/count.svg" alt="Visitor Count" width="15%"/><br>
