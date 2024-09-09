@@ -22,8 +22,8 @@
 
  <h1 style="text-align: center;">Yibeijiu's GitHub</h1>
 
-Engineering structure | Steel and compiste steel-concrete research | Finite element modeling | Nonlinear analysis | Performance-based design
-    
+Engineering structure | Steel and compiste steel-concrete research | 
+Finite element modeling | Nonlinear analysis | Performance-based design
 
 <p style="text-align: center;>
 <a href="https://github.com/zpy1160390580/">
