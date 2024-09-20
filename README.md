@@ -5,6 +5,13 @@
       <h1 style="text-align: center;">🌱<a href="https://github.com/zpy1160390580/">Yibeijiu's GitHub</a>🌱</h1>
     </td>
 	</tr>
+  <tr>     <!-- dynamic typing effect 动态打字效果 -->
+	  <td colspan="3" align="center" valign="center">
+      <a href="https://zpy1160390580.github.io/">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Every man has his value!;&center=true&size=27" />  
+      </a>
+    </td>
+	</tr>
   <tr>  <!-- profile logo 个人资料徽标 -->
 	  <td colspan="3" align="center" valign="center">
       <a href="https://github.com/zpy1160390580" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/GitHub-仓库-000000" /></a>&emsp;
@@ -15,13 +22,6 @@
       <a href="https://space.bilibili.com/386220789" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
       <!-- visitor -->
       <img src="https://komarev.com/ghpvc/?username=zpy1160390580&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    </td>
-	</tr>
-  <tr>     <!-- dynamic typing effect 动态打字效果 -->
-	  <td colspan="3" align="center" valign="center">
-      <a href="https://zpy1160390580.github.io/">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Every man has his value!;&center=true&size=27" />  
-      </a>
     </td>
 	</tr>
 	<tr>
