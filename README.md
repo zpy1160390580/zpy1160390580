@@ -7,6 +7,7 @@
     <a href="https://zpy1160390580.github.io/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=天生我材必有用!;&center=true&size=27" />  
     </a>
+    访问： <img src="https://profile-counter.glitch.me/zpy1160390580/count.svg" alt="Visitor Count" width="15%"/>
   </div>
 
   <!-- 专业方向 -->
@@ -14,7 +15,7 @@
 
   <!-- dynamic typing effect 仓库访问次数 -->
   <div>
-    访问： <img src="https://profile-counter.glitch.me/zpy1160390580/count.svg" alt="Visitor Count" width="15%"/>
+    
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
