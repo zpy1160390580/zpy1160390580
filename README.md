@@ -48,7 +48,7 @@
     <td colspan="5" align="center" valign="center"> <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&hide_border=true" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img  height=90% src="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <img  height=80% src="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture></td><!-- GitHub Activity Graph GitHub 活动图 -->
   </tr>
   <tr align="left" valign="center">  
