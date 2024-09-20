@@ -1,23 +1,46 @@
-🌱 I’m [Yibeijiu](https://github.com/zpy1160390580/).
+<div align="center">
 
-<p align="center">
-  仓库累计访问次数：<img src="https://profile-counter.glitch.me/zpy1160390580/count.svg" alt="Visitor Count" width="15%"/><br>
-  <a href="https://github.com/zpy1160390580" target="_blank" rel="noopener">
-    <img src="https://komarev.com/ghpvc/?username=zpy1160390580&style=flat" alt=""/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCJVQRKyjDVBWXFz7XyKZHFw" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.cnblogs.com/yibeijiu" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/My_Blog-blue" alt="My blog"/>
-  </a>
-  <a href="https://cdn.jsdelivr.net/gh/zpy1160390580/ybj-PicGo-picture-bed/images/OfficialAccounts/operate/查找公众号.png" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Subscriptions-blue" alt="微信公众号"/>
-  </a>
-  <a href="https://link3.cc/yibeijiu" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Card-blue" alt="数字名片"/>
-  </a>
-</p>
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://zpy1160390580.github.io/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=天生我材必有用!;&center=true&size=27" />  
+      🌱🌱<a href="https://github.com/zpy1160390580/">Yibeijiu</a>访问： <img src="https://profile-counter.glitch.me/zpy1160390580/count.svg" alt="Visitor Count" width="15%"/>
+    </a>
+  </div>
+
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zpy1160390580/ybj-PicGo-picture-bed/NicePicture/Development/developer.svg" height="225px" />
+  </picture>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+  <!-- profile logo 个人资料徽标 -->
+  <div>
+    <a href="https://github.com/zpy1160390580" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/GitHub-仓库-000000" /></a>&emsp;
+    <a href="http://www.youtube.com/@user-gx4kb5hr3n" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://www.cnblogs.com/yibeijiu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="https://cdn.jsdelivr.net/gh/zpy1160390580/ybj-PicGo-picture-bed/images/OfficialAccounts/operate/查找公众号.png" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/WeChat-公众号-07c160" /></a>&emsp;
+    <a href="https://link3.cc/yibeijiu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Card-名片-0066ff" /></a>&emsp;
+    <a href="" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=zpy1160390580&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+
+  </div>
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
+</div>
+
+
+
+
 
 
  <h1 style="text-align: center;">Yibeijiu's GitHub</h1>
