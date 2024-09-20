@@ -1,8 +1,8 @@
 <!-- Github profile -->
 <table>   <!-- 表格开始 -->
   <tr>       <!--  -->
-	  <td colspan="3" align="left" valign="center">
-      <h1 style="text-align: center;">🌱<a href="https://github.com/zpy1160390580/">Yibeijiu's GitHub</a>🌱</h1><br>
+	  <td colspan="3" align="center" valign="center">
+      <h1 style="text-align: center;">🌱<a href="https://github.com/zpy1160390580/">Yibeijiu's GitHub</a>🌱</h1>
     </td>
 	</tr>
   <tr>  <!-- profile logo 个人资料徽标 -->
