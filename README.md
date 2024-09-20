@@ -2,7 +2,7 @@
 <table>   <!-- 表格开始 -->
   <tr>       <!--  -->
 	  <td colspan="3" align="center" valign="center">
-      <h1 style="text-align: center;">🌱<a href="https://github.com/zpy1160390580/">Yibeijiu's GitHub</a>🌱</h1>
+      <font size="27px" color=#00ffff>🌱<a href="https://github.com/zpy1160390580/">Yibeijiu's GitHub</a>🌱</font>
     </td>
 	</tr>
   <tr>     <!-- dynamic typing effect 动态打字效果 -->
