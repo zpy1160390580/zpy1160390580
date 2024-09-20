@@ -1,14 +1,9 @@
 <!-- Github profile -->
 <table>   <!-- 表格开始 -->
-  <tr>       <!--  -->
-	  <td colspan="3" align="center" valign="center">
-      <font size="27px" color=#00ffff>🌱<a href="https://github.com/zpy1160390580/">Yibeijiu's GitHub</a>🌱</font>
-    </td>
-	</tr>
   <tr>     <!-- dynamic typing effect 动态打字效果 -->
 	  <td colspan="3" align="center" valign="center">
       <a href="https://zpy1160390580.github.io/">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Every man has his value!;&center=true&size=27" />  
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=🌱Yibeijiu's GitHub🌱;Every man has his value!;&center=true&size=27" />  
       </a>
     </td>
 	</tr>
