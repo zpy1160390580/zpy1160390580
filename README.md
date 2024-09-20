@@ -2,22 +2,11 @@
 
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
+  
   <div>
-    <a href="https://zpy1160390580.github.io/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=天生我材必有用!;&center=true&size=27" />  
-    </a>
+    
     <img src="https://profile-counter.glitch.me/zpy1160390580/count.svg" alt="Visitor Count" width="15%"/><!-- dynamic typing effect 仓库访问次数 -->
   </div>
-
-
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/coding.gif" />
-  </picture> <br>
-
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
@@ -27,11 +16,16 @@
   <div class="center">
     <table align="center" valign="center">   <!-- 表格开始 -->
       <tr>       <!--  -->
-    	  <th colspan="2" style="text-align:center">🤺 嗨，你好，我是<a href="https://github.com/zpy1160390580/">Yibeijiu</a>。</th>
+    	  <th colspan="2" style="text-align:center">
+          <a href="https://zpy1160390580.github.io/">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=天生我材必有用!;&center=true&size=27" />  
+          </a><!-- dynamic typing effect 动态打字效果 -->
+        </th>
     	</tr>
     	<tr>
         <td align="left" valign="center"><img height="100px" src="https://avatars.githubusercontent.com/u/101700134?v=4"/></td>
     	  <td align="left" valign="center">
+          <p>&emsp;&emsp;🤺 嗨，你好，我是<a href="https://github.com/zpy1160390580/">Yibeijiu</a>。</p>
           <p>&emsp;&emsp;通过代码的重复使用和延展构建完美体系，让世界更加美好。</p>
           <p>&emsp;&emsp;<strong>The world breaks everyone and afterward many are strong at the broken places.</strong></p></td>
     	</tr>
