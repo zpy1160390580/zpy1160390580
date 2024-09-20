@@ -58,13 +58,13 @@
   	  <th colspan="2" style="text-align:center">🤺 About Me</th>
   	</tr>
   	<tr>
-  	  <td align="left" valign="left">
+      <td><img align="left" width="88" src="https://avatars.githubusercontent.com/u/101700134?v=4"/></td>
+  	  <td align="right" valign="center">
         <p>&emsp;&emsp;嗨，你好，我是Yibeijiu。</p>
-        <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-        <p>&emsp;&emsp;<strong>We're making the world a better place.</strong></p></td>
-	    <td><img align="right" width="88" src="https://avatars.githubusercontent.com/u/101700134?v=4"/></td>
+        <p>&emsp;&emsp;通过代码的重复使用和延展构建完美体系，让世界更加美好。</p>
+        <p>&emsp;&emsp;<strong>The world breaks everyone and afterward many are strong at the broken places.</strong></p></td>
   	</tr>
-    <tr align="center" valign="left">
+    <tr align="left" valign="center">
   	  <td colspan="2"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zpy1160390580&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515"></td>
   	</tr>
   </table>
