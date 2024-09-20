@@ -44,12 +44,14 @@
         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zpy1160390580/zpy1160390580/output/github-contribution-grid-snake.svg" />
       </picture></td><!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 	</tr>
-  <tr align="left" valign="center">  <!-- GitHub状态 -->
-	  <td colspan="3"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zpy1160390580&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515"></td>
-	</tr>
+  <tr>
+    <td colspan="3"> <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture></td><!-- GitHub Activity Graph GitHub 活动图 -->
+  </tr>
 </table>
-
-
 
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
@@ -63,14 +65,9 @@
 <img align="right" width="100"  src="https://cdn.jsdelivr.net/gh/zpy1160390580/ybj-PicGo-picture-bed/Study/10-Papers_Flying/01-Writing_assets/wing-right.png" />
 
 
-<!-- GitHub Activity Graph GitHub 活动图 -->
+
 <table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
+  <tr align="left" valign="center">  <!-- GitHub状态 -->
+	  <td colspan="3"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zpy1160390580&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515"></td>
+	</tr>
 </table>
