@@ -39,15 +39,15 @@
 	</tr>
   <tr>
     <td colspan="2"> <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img  height=90% src="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture></td><!-- GitHub Activity Graph GitHub 活动图 -->
-    <td colspan="2"> <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=zpy1160390580&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=zpy1160390580&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" />
         <img src="https://github-readme-streak-stats.herokuapp.com?user=zpy1160390580&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" />
       </picture></td><!-- github-readme-streak-stats 连续提交代码天数记录 -->
+    <td colspan="2"> <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img  height=90% src="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture></td><!-- GitHub Activity Graph GitHub 活动图 -->
   </tr>
   <tr align="left" valign="center">  
 	  <td colspan="4"><picture>
