@@ -10,6 +10,7 @@
     <img src="https://profile-counter.glitch.me/zpy1160390580/count.svg" alt="Visitor Count" width="15%"/><!-- dynamic typing effect 仓库访问次数 -->
   </div>
 
+
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/coding.gif" />
@@ -17,13 +18,16 @@
     <img src="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/coding.gif" />
   </picture> <br>
 
+
   <!-- 专业方向 -->
   <strong>
     Engineering structure | Steel and compiste steel-concrete research | <br> Finite element modeling | Nonlinear analysis | Performance-based design
   </strong>
 
+
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
+
 
   <!-- profile logo 个人资料徽标 -->
   <div>
@@ -32,10 +36,9 @@
     <a href="https://www.cnblogs.com/yibeijiu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <a href="https://cdn.jsdelivr.net/gh/zpy1160390580/ybj-PicGo-picture-bed/images/OfficialAccounts/operate/查找公众号.png" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/WeChat-公众号-07c160" /></a>&emsp;
     <a href="https://link3.cc/yibeijiu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Card-名片-0066ff" /></a>&emsp;
-    <a href="" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://space.bilibili.com/386220789" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=zpy1160390580&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -47,6 +50,8 @@
 
 
 </div>
+
+
 
 <p style="text-align: center;>
   <a href="https://github.com/zpy1160390580/">  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zpy1160390580&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">  </a>
