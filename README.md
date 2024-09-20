@@ -60,8 +60,8 @@
 
 
 
-
-
+<div>
+<center>
 <!-- dynamic typing effect 动态打字效果 -->
 <a href="https://zpy1160390580.github.io/">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=🌱Yibeijiu's GitHub🌱;Every man has his value!;&center=true&size=27" />  
@@ -84,3 +84,6 @@
       <p>&emsp;🤺 嗨，你好，我是<a href="https://github.com/zpy1160390580/">Yibeijiu</a>。</p>
       <p>&emsp;🤺 通过代码的重复使用和延展构建完美体系，让世界更加美好。</p>
       <p>&emsp;🤺 <strong>The world breaks everyone and afterward many are strong at the broken places.</strong></p>
+
+</center>
+</div>
