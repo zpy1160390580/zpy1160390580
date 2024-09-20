@@ -6,17 +6,8 @@
   <div>
     <a href="https://zpy1160390580.github.io/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=天生我材必有用!;&center=true&size=27" />  
-    </a><img src="https://profile-counter.glitch.me/zpy1160390580/count.svg" alt="Visitor Count" width="15%"/>
-  </div>
-
-  <!-- 专业方向 -->
-  <strong>
-    Engineering structure | Steel and compiste steel-concrete research | <br> Finite element modeling | Nonlinear analysis | Performance-based design
-  </strong>
-  
-  <!-- dynamic typing effect 仓库访问次数 -->
-  <div>
-    
+    </a>
+    <img src="https://profile-counter.glitch.me/zpy1160390580/count.svg" alt="Visitor Count" width="15%"/><!-- dynamic typing effect 仓库访问次数 -->
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
@@ -25,6 +16,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/coding.gif" />
   </picture> 
+  
+  <!-- 专业方向 -->
+  <strong>
+    Engineering structure | Steel and compiste steel-concrete research | <br> Finite element modeling | Nonlinear analysis | Performance-based design
+  </strong>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
