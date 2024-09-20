@@ -58,7 +58,7 @@
   	  <th colspan="2" style="text-align:center">🤺 About Me</th>
   	</tr>
   	<tr>
-  	  <td align="center" valign="left">
+  	  <td align="left" valign="left">
         <p>&emsp;&emsp;嗨，你好，我是Yibeijiu。</p>
         <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
         <p>&emsp;&emsp;<strong>We're making the world a better place.</strong></p></td>
