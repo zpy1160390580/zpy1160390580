@@ -9,6 +9,9 @@
     </a>
   </div>
 
+  <!-- 专业方向 -->
+  Engineering structure | Steel and compiste steel-concrete research | <br> Finite element modeling | Nonlinear analysis | Performance-based design
+
   <!-- dynamic typing effect 仓库访问次数 -->
   <div>
     访问： <img src="https://profile-counter.glitch.me/zpy1160390580/count.svg" alt="Visitor Count" width="15%"/>
@@ -48,8 +51,7 @@
 
 
 
-Engineering structure | Steel and compiste steel-concrete research | <br>
-Finite element modeling | Nonlinear analysis | Performance-based design
+
 
 <p style="text-align: center;>
   <a href="https://github.com/zpy1160390580/">  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zpy1160390580&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">  </a>
