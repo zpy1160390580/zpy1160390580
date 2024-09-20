@@ -59,6 +59,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=zpy1160390580&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=zpy1160390580&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zpy1160390580&theme=dark&hide_border=true" />
-<picture>
+</picture>
 <img align="right" width="100"  src="https://cdn.jsdelivr.net/gh/zpy1160390580/ybj-PicGo-picture-bed/Study/10-Papers_Flying/01-Writing_assets/wing-right.png" />
 </picture>
