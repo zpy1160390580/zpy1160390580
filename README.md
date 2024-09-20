@@ -52,21 +52,19 @@
 </div>
 
 #  🙋 Hello
-
-### 🤺 About Me
-
 <div class="center">
   <table align="center" valign="center">   <!-- 表格开始 -->
     <tr>       <!--  -->
-  	  <th colspan="2" style="text-align:center">profile</th>
+  	  <th colspan="2" style="text-align:center">🤺 About Me</th>
   	</tr>
-  	<tr align="center" valign="center">
-  	  <td><p>&emsp;&emsp;嗨，你好，我是Yibeijiu。</p>
-          <p>&emsp;&emsp;<strong>We're making the world a better place.</strong></p></td>
+  	<tr>
+  	  <td align="center" valign="left">
+        <p>&emsp;&emsp;嗨，你好，我是Yibeijiu。</p>
+        <p>&emsp;&emsp;<strong>We're making the world a better place.</strong></p></td>
 	    <td><img align="right" width="88" src="https://avatars.githubusercontent.com/u/101700134?v=4"/></td>
   	</tr>
     <tr align="center" valign="left">
-  	  <td rowspan="2"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zpy1160390580&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515"></td>
+  	  <td colspan="2"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zpy1160390580&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515"></td>
   	</tr>
   </table>
 </div>
