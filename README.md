@@ -49,8 +49,7 @@
         </td>
     	</tr>
       <tr align="left" valign="center">  <!-- GitHub状态 -->
-    	  <td colspan="2"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zpy1160390580&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515"></td>
-        <td align="center" valign="center">仓库访问次数：<br><img src="https://profile-counter.glitch.me/zpy1160390580/count.svg" alt="Visitor Count" width="15%"/></td><!-- dynamic typing effect 仓库访问次数 -->
+    	  <td colspan="3"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zpy1160390580&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515"></td>
     	</tr>
     </table>
   </div>
