@@ -1,3 +1,5 @@
+<h1 style="text-align: center;">🌱<a href="https://github.com/zpy1160390580/">Yibeijiu's GitHub</a>🌱</h1>
+
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
@@ -7,9 +9,14 @@
     </a>
   </div>
 
+  <!-- dynamic typing effect 仓库访问次数 -->
+  <div>
+    访问： <img src="https://profile-counter.glitch.me/zpy1160390580/count.svg" alt="Visitor Count" width="15%"/>
+  </div>
+
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zpy1160390580/ybj-PicGo-picture-bed/NicePicture/Development/developer.svg" height="225px" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/developer.svg" height="225px" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -39,7 +46,7 @@
 
 
 
-<h1 style="text-align: center;">🌱<a href="https://github.com/zpy1160390580/">Yibeijiu's GitHub</a>🌱</h1>访问： <img src="https://profile-counter.glitch.me/zpy1160390580/count.svg" alt="Visitor Count" width="15%"/>
+
 
 Engineering structure | Steel and compiste steel-concrete research | <br>
 Finite element modeling | Nonlinear analysis | Performance-based design
