@@ -54,7 +54,7 @@
         </td>
     	</tr>
       <tr align="left" valign="center">  <!-- GitHub状态 -->
-    	  <td colspan="2"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zpy1160390580&&show_icons=true&title_color=ffffff&  icon_color=ffdc40&text_color=ffffff&bg_color=151515"></td>
+    	  <td colspan="2"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zpy1160390580&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515"></td>
     	</tr>
     </table>
   </div>
