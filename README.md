@@ -15,8 +15,8 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/coding.gif" />
-  </picture> 
-  
+  </picture> <br>
+
   <!-- 专业方向 -->
   <strong>
     Engineering structure | Steel and compiste steel-concrete research | <br> Finite element modeling | Nonlinear analysis | Performance-based design
