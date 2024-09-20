@@ -10,8 +10,10 @@
   </div>
 
   <!-- 专业方向 -->
-  Engineering structure | Steel and compiste steel-concrete research | <br> Finite element modeling | Nonlinear analysis | Performance-based design
-
+  <strong>
+    Engineering structure | Steel and compiste steel-concrete research | <br> Finite element modeling | Nonlinear analysis | Performance-based design
+  </strong>
+  
   <!-- dynamic typing effect 仓库访问次数 -->
   <div>
     
