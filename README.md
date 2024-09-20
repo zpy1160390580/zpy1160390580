@@ -18,7 +18,7 @@
       <tr>       <!--  -->
     	  <th colspan="2" style="text-align:center">
           <a href="https://zpy1160390580.github.io/">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=天生我材必有用!;&center=true&size=20" />  
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Every man has his value!;&center=true&size=20" />  
           </a><!-- dynamic typing effect 动态打字效果 -->
         </th>
     	</tr>
