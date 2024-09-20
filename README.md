@@ -6,7 +6,7 @@
 	  <th colspan="3" style="text-align:center">
       <h1 style="text-align: center;">🌱<a href="https://github.com/zpy1160390580/">Yibeijiu's GitHub</a>🌱</h1><br>
       <a href="https://zpy1160390580.github.io/">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Every man has his value!;&center=true&size=20" />  
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Every man has his value!;&center=true&size=27" />  
       </a><!-- dynamic typing effect 动态打字效果 -->
     </th>
 	</tr>
@@ -40,6 +40,13 @@
       <img src="https://komarev.com/ghpvc/?username=zpy1160390580&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     </td>
 	</tr>
+  <tr align="left" valign="center">  
+	  <td colspan="3"><picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zpy1160390580/zpy1160390580/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zpy1160390580/zpy1160390580/output/github-contribution-grid-snake.svg" />
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zpy1160390580/zpy1160390580/output/github-contribution-grid-snake.svg" />
+      </picture></td><!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+	</tr>
   <tr align="left" valign="center">  <!-- GitHub状态 -->
 	  <td colspan="3"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zpy1160390580&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515"></td>
 	</tr>
@@ -50,12 +57,8 @@
 
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zpy1160390580/zpy1160390580/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zpy1160390580/zpy1160390580/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zpy1160390580/zpy1160390580/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+  
+
 
 
 
