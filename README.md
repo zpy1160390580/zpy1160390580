@@ -62,6 +62,7 @@
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/101700134?v=4" />
 
 <p>&emsp;&emsp;嗨，你好，我是Yibeijiu。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
 
