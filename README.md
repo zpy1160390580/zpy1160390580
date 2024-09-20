@@ -39,7 +39,7 @@
         <td align="left" valign="center"><picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/coding.gif" />
             <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/developer.svg" height="225px" />
-            <img width="60px" src="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/coding.gif" />
+            <img width="20px" src="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/coding.gif" />
           </picture></td><!-- knock code pictures 敲代码的图片 -->
     	  <td align="center" valign="center">
           <p>&emsp;&emsp;<strong>Engineering structure | Steel and compiste steel-concrete research | <br>
