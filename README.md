@@ -19,10 +19,7 @@
   </picture> <br>
 
 
-  <!-- 专业方向 -->
-  <strong>
-    Engineering structure | Steel and compiste steel-concrete research | <br> Finite element modeling | Nonlinear analysis | Performance-based design
-  </strong>
+
 
 
   <!-- for beauty 留个空行好看点 -->
@@ -55,17 +52,25 @@
 <div class="center">
   <table align="center" valign="center">   <!-- 表格开始 -->
     <tr>       <!--  -->
-  	  <th colspan="2" style="text-align:center">🤺 About Me</th>
+  	  <th colspan="2" style="text-align:center">🤺 嗨，你好，我是<a href="https://github.com/zpy1160390580/">Yibeijiu</a>。</th>
   	</tr>
   	<tr>
       <td><img align="left" width="88" src="https://avatars.githubusercontent.com/u/101700134?v=4"/></td>
   	  <td align="right" valign="center">
-        <p>&emsp;&emsp;嗨，你好，我是Yibeijiu。</p>
+        <p>&emsp;&emsp;</p>
         <p>&emsp;&emsp;通过代码的重复使用和延展构建完美体系，让世界更加美好。</p>
         <p>&emsp;&emsp;<strong>The world breaks everyone and afterward many are strong at the broken places.</strong></p></td>
   	</tr>
-    <tr align="left" valign="center">
+    <tr align="left" valign="center">  <!-- 专业方向 -->
+  	  <td colspan="2">
+        <p>&emsp;&emsp;<strong>Engineering structure | Steel and compiste steel-concrete research | <br> Finite element modeling | Nonlinear analysis | Performance-based design |</strong></p>
+      </td>
+  	</tr>
+    <tr align="left" valign="center">  <!-- GitHub状态 -->
   	  <td colspan="2"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zpy1160390580&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515"></td>
   	</tr>
   </table>
 </div>
+
+
+
