@@ -66,6 +66,18 @@
            &emsp;&emsp;Finite element modeling | Nonlinear analysis | Performance-based design |</strong></p>
       </td>
   	</tr>
+    <tr align="center" valign="center">  <!-- profile logo 个人资料徽标 -->
+  	  <td colspan="2">
+        <a href="https://github.com/zpy1160390580" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/GitHub-仓库-000000" /></a>&emsp;
+        <a href="http://www.youtube.com/@user-gx4kb5hr3n" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+        <a href="https://www.cnblogs.com/yibeijiu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+        <a href="https://cdn.jsdelivr.net/gh/zpy1160390580/ybj-PicGo-picture-bed/images/OfficialAccounts/operate/查找公众号.png" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/WeChat-公众号-07c160" /></a>&emsp;
+        <a href="https://link3.cc/yibeijiu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Card-名片-0066ff" /></a>&emsp;
+        <a href="https://space.bilibili.com/386220789" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+        <!-- visitor -->
+        <img src="https://komarev.com/ghpvc/?username=zpy1160390580&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+      </td>
+  	</tr>
     <tr align="left" valign="center">  <!-- GitHub状态 -->
   	  <td colspan="2"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zpy1160390580&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515"></td>
   	</tr>
