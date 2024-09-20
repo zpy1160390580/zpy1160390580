@@ -4,7 +4,6 @@
   <div>
     <a href="https://zpy1160390580.github.io/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=天生我材必有用!;&center=true&size=27" />  
-      🌱🌱<a href="https://github.com/zpy1160390580/">Yibeijiu</a>访问： <img src="https://profile-counter.glitch.me/zpy1160390580/count.svg" alt="Visitor Count" width="15%"/>
     </a>
   </div>
 
@@ -40,10 +39,7 @@
 
 
 
-
-
-
- <h1 style="text-align: center;">Yibeijiu's GitHub</h1>
+<h1 style="text-align: center;">🌱<a href="https://github.com/zpy1160390580/">Yibeijiu's GitHub</a>🌱</h1>访问： <img src="https://profile-counter.glitch.me/zpy1160390580/count.svg" alt="Visitor Count" width="15%"/>
 
 Engineering structure | Steel and compiste steel-concrete research | <br>
 Finite element modeling | Nonlinear analysis | Performance-based design
