@@ -30,13 +30,18 @@
     	  <th colspan="2" style="text-align:center">🤺 嗨，你好，我是<a href="https://github.com/zpy1160390580/">Yibeijiu</a>。</th>
     	</tr>
     	<tr>
-        <td><img align="left" width="100" src="https://avatars.githubusercontent.com/u/101700134?v=4"/></td>
+        <td align="left" valign="center"><img width="100" src="https://avatars.githubusercontent.com/u/101700134?v=4"/></td>
     	  <td align="left" valign="center">
           <p>&emsp;&emsp;通过代码的重复使用和延展构建完美体系，让世界更加美好。</p>
           <p>&emsp;&emsp;<strong>The world breaks everyone and afterward many are strong at the broken places.</strong></p></td>
     	</tr>
-      <tr align="center" valign="center">  <!-- 专业方向 -->
-    	  <td colspan="2">
+      <tr>  <!-- 专业方向 -->
+        <td align="left" valign="center"><picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/coding.gif" />
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/developer.svg" height="225px" />
+            <img width="100" src="https://cdn.jsdelivr.net/gh/zpy1160390580/zpy1160390580/Picture/coding.gif" />
+          </picture></td><!-- knock code pictures 敲代码的图片 -->
+    	  <td align="center" valign="center">
           <p>&emsp;&emsp;<strong>Engineering structure | Steel and compiste steel-concrete research | <br>
              &emsp;&emsp;Finite element modeling | Nonlinear analysis | Performance-based design |</strong></p>
         </td>
