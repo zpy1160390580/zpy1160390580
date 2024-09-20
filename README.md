@@ -1,12 +1,12 @@
 <!-- Github profile -->
-<table align="center" valign="center">   <!-- 表格开始 -->
+<table>   <!-- 表格开始 -->
   <tr>       <!--  -->
-	  <td colspan="3" style="text-align:center">
+	  <td colspan="3" align="left" valign="center">
       <h1 style="text-align: center;">🌱<a href="https://github.com/zpy1160390580/">Yibeijiu's GitHub</a>🌱</h1><br>
     </td>
 	</tr>
-  <tr align="center" valign="center">  <!-- profile logo 个人资料徽标 -->
-	  <td colspan="3">
+  <tr>  <!-- profile logo 个人资料徽标 -->
+	  <td colspan="3" align="center" valign="center">
       <a href="https://github.com/zpy1160390580" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/GitHub-仓库-000000" /></a>&emsp;
       <a href="http://www.youtube.com/@user-gx4kb5hr3n" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
       <a href="https://www.cnblogs.com/yibeijiu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
@@ -18,7 +18,7 @@
     </td>
 	</tr>
   <tr>     <!-- dynamic typing effect 动态打字效果 -->
-	  <td colspan="3" style="text-align:center">
+	  <td colspan="3" align="center" valign="center">
       <a href="https://zpy1160390580.github.io/">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Every man has his value!;&center=true&size=27" />  
       </a>
