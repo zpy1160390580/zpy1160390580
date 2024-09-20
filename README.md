@@ -18,16 +18,16 @@
       <tr>       <!--  -->
     	  <th colspan="2" style="text-align:center">
           <a href="https://zpy1160390580.github.io/">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=天生我材必有用!;&center=true&size=27" />  
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=天生我材必有用!;&center=true&size=20" />  
           </a><!-- dynamic typing effect 动态打字效果 -->
         </th>
     	</tr>
     	<tr>
         <td align="left" valign="center"><img height="100px" src="https://avatars.githubusercontent.com/u/101700134?v=4"/></td>
     	  <td align="left" valign="center">
-          <p>&emsp;&emsp;🤺 嗨，你好，我是<a href="https://github.com/zpy1160390580/">Yibeijiu</a>。</p>
-          <p>&emsp;&emsp;通过代码的重复使用和延展构建完美体系，让世界更加美好。</p>
-          <p>&emsp;&emsp;<strong>The world breaks everyone and afterward many are strong at the broken places.</strong></p></td>
+          <p>&emsp;🤺 嗨，你好，我是<a href="https://github.com/zpy1160390580/">Yibeijiu</a>。</p>
+          <p>&emsp;🤺 通过代码的重复使用和延展构建完美体系，让世界更加美好。</p>
+          <p>&emsp;🤺 <strong>The world breaks everyone and afterward many are strong at the broken places.</strong></p></td>
     	</tr>
       <tr>  <!-- 专业方向 -->
         <td align="left" valign="center"><picture>
