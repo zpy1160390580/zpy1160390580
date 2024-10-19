@@ -20,7 +20,7 @@
     </td>
 	</tr>
   <tr>  <!-- profile logo 个人资料徽标 -->
-    <td align="center" valign="center">Study</td>
+    <td align="center" valign="center">索引（Private）</td>
 	  <td colspan="4" align="center" valign="center">
       <a href="https://github.com/zpy1160390580/My-code-space" target="_blank" rel="noopener">日常笔记</a>&emsp;
       <a href="https://github.com/zpy1160390580/Backup-Python" target="_blank" rel="noopener">Python</a>&emsp;
