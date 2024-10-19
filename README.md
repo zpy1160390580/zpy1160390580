@@ -22,7 +22,7 @@
   <tr>  <!-- profile logo 个人资料徽标 -->
     <td align="center" valign="center">Study</td>
 	  <td colspan="4" align="center" valign="center">
-      <a href="hhttps://github.com/zpy1160390580/My-code-space" target="_blank" rel="noopener">日常笔记</a>&emsp;
+      <a href="https://github.com/zpy1160390580/My-code-space" target="_blank" rel="noopener">日常笔记</a>&emsp;
       <a href="https://github.com/zpy1160390580/Backup-Python" target="_blank" rel="noopener">Python</a>&emsp;
       <a href="https://github.com/zpy1160390580/Backup-ABAQUS" target="_blank" rel="noopener">ABAQUS</a>&emsp;
       <a href="https://github.com/zpy1160390580/Meeting" target="_blank" rel="noopener">会议文件</a>&emsp;
