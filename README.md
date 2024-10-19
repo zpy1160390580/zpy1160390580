@@ -19,6 +19,18 @@
       <img src="https://komarev.com/ghpvc/?username=zpy1160390580&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     </td>
 	</tr>
+  <tr>  <!-- profile logo 个人资料徽标 -->
+    <td align="center" valign="center">Study</td>
+	  <td colspan="4" align="center" valign="center">
+      <a href="hhttps://github.com/zpy1160390580/My-code-space" target="_blank" rel="noopener">日常笔记</a>&emsp;
+      <a href="https://github.com/zpy1160390580/Backup-Python" target="_blank" rel="noopener">Python</a>&emsp;
+      <a href="https://github.com/zpy1160390580/Backup-ABAQUS" target="_blank" rel="noopener">ABAQUS</a>&emsp;
+      <a href="https://github.com/zpy1160390580/Meeting" target="_blank" rel="noopener">会议文件</a>&emsp;
+      <a href="https://github.com/zpy1160390580/Backup-Book" target="_blank" rel="noopener">电子书</a>&emsp;
+      <a href="https://github.com/zpy1160390580/Backup-Github/tree/main/03-Software" target="_blank" rel="noopener">常用小软件</a>&emsp;
+      <a href="https://github.com/zpy1160390580/ybj-PicGo-picture-bed" target="_blank" rel="noopener">图床</a>&emsp;
+    </td>
+	</tr>
 	<tr>
     <td align="left" valign="center"><img height="100px" src="https://avatars.githubusercontent.com/u/101700134?v=4"/></td>
 	  <td colspan="4" align="left" valign="center">
