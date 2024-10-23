@@ -50,7 +50,7 @@
     </td>
 	</tr>
   <tr>  <!-- 研究 -->
-    <td align="center" valign="center">Research（Private）</td>
+    <td align="center" valign="center">Research</td>
 	  <td colspan="4" align="center" valign="center">
       <a href="https://github.com/zpy1160390580/Ductile-fracture" target="_blank" rel="noopener">Ductile fracture</a>&emsp;
       <a href="" target="_blank" rel="noopener">-----------</a>&emsp;
