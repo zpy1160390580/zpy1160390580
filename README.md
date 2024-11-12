@@ -1,5 +1,6 @@
 <!-- Github profile -->
-<table>   <!-- 表格开始 -->
+<div class="center">
+  <table align="center" valign="center">   <!-- 表格开始 -->
   <tr>     <!-- dynamic typing effect 动态打字效果 -->
 	  <td colspan="5" align="center" valign="center">
       <a href="https://zpy1160390580.github.io/">
@@ -81,6 +82,6 @@
         <img  height=80% src="https://github-readme-activity-graph.vercel.app/graph?username=zpy1160390580&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture></td><!-- GitHub Activity Graph GitHub 活动图 -->
   </tr>
-</table>
-
+  </table>
+</div>
 
