@@ -28,7 +28,7 @@
       <a href="https://github.com/zpy1160390580/Backup-ABAQUS" target="_blank" rel="noopener">ABAQUS</a>&emsp;
       <a href="https://github.com/zpy1160390580/Meeting" target="_blank" rel="noopener">会议文件</a>&emsp;
       <a href="https://github.com/zpy1160390580/Backup-Book" target="_blank" rel="noopener">电子书</a>&emsp;
-      <a href="https://github.com/zpy1160390580/Backup-Github/tree/main/03-Software" target="_blank" rel="noopener">常用小软件</a>&emsp;
+      <a href="https://github.com/zpy1160390580/Backup-Software" target="_blank" rel="noopener">常用小软件</a>&emsp;
       <a href="https://github.com/zpy1160390580/ybj-PicGo-picture-bed" target="_blank" rel="noopener">图床</a>&emsp;
     </td>
 	</tr>
