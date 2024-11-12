@@ -50,17 +50,6 @@
          &emsp;&emsp;Finite element modeling | Nonlinear analysis | Performance-based design |</strong></p>
     </td>
 	</tr>
-  <tr>  <!-- 研究 -->
-    <td align="center" valign="center">Research</td>
-	  <td colspan="4" align="center" valign="center">
-      <a href="https://github.com/zpy1160390580/Ductile-fracture" target="_blank" rel="noopener">Ductile fracture</a>&emsp;
-      <a href="" target="_blank" rel="noopener">-----------</a>&emsp;
-      <a href="" target="_blank" rel="noopener">-----------</a>&emsp;
-      <a href="" target="_blank" rel="noopener">-----------</a>&emsp;
-      <a href="" target="_blank" rel="noopener">-----------</a>&emsp;
-      <a href="" target="_blank" rel="noopener">-----------</a>&emsp;
-    </td>
-	</tr>
   <tr>
     <td colspan="5" align="center" valign="center"> <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=zpy1160390580&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" />
