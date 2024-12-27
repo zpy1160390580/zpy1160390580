@@ -37,7 +37,7 @@
   	</tr>
 	<tr><!-- profile logo 个人资料徽标 -->
       <td align="center" valign="center">
-        <a href="https://github.com/zpy1160390580/My-code-space">
+        <a href="https://github.com/zpy1160390580/My-notebook">
           <img height="100px" src="https://avatars.githubusercontent.com/u/101700134?v=4"/>
         </a></td>
 	  <td colspan="4" align="left" valign="center">
