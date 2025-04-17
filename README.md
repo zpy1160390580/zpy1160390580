@@ -58,22 +58,6 @@
          &emsp;&emsp;Finite element modeling | Nonlinear analysis | Performance-based design |</strong></p>
       </td>
 	</tr>
-    <tr> <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-      <td colspan="5" align="center" valign="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=zpy1160390580&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=zpy1160390580&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j"/>
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=zpy1160390580&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" />
-        </picture>
-      </td>
-    </tr>
-    <tr align="center" valign="center">  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-	  <td colspan="5"><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zpy1160390580/zpy1160390580/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zpy1160390580/zpy1160390580/output/github-contribution-grid-snake.svg" />
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zpy1160390580/zpy1160390580/output/github-contribution-grid-snake.svg" />
-      </picture></td>
-	</tr>
   </table>
 </div>
 
