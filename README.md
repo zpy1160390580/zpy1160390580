@@ -1,12 +1,5 @@
 <!-- Github profile -->
 
- 
-<div align="center">  <!-- dynamic typing effect 动态打字效果 -->
-  <a href="https://zpy1160390580.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=🌱Yibeijiu's GitHub🌱;Every man has his value!;&center=true&size=27" />  
-  </a>
-</div>
-
 
 <div align="center">  <!-- 分割效果 -->
   <figure>
