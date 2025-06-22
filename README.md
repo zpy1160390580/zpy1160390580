@@ -25,15 +25,6 @@
 <div class="center">
   <table align="center" valign="center">   <!-- 表格开始 -->
     <tr>
-  	  <td colspan="5" align="center" valign="center">
-        <a href="https://github.com/zpy1160390580" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/GitHub-仓库-000000" /></a>&emsp;
-        <a href="http://www.youtube.com/@%E4%B8%80%E6%9D%AF%E9%85%92-q3u" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-        <a href="https://www.cnblogs.com/yibeijiu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-        <a href="https://cdn.jsdelivr.net/gh/zpy1160390580/ybj-PicGo-picture-bed/images/OfficialAccounts/operate/查找公众号.png" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/WeChat-公众号-07c160" /></a>&emsp;
-        <a href="https://link3.cc/yibeijiu" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Card-名片-0066ff" /></a>&emsp;
-        <a href="https://space.bilibili.com/386220789" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-        <img src="https://komarev.com/ghpvc/?username=zpy1160390580&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;<!-- visitor -->
-      </td>
   	</tr>
 	<tr><!-- profile logo 个人资料徽标 -->
       <td align="center" valign="center">
