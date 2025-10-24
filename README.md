@@ -25,8 +25,8 @@
           <img height="100px" src="https://avatars.githubusercontent.com/u/101700134?v=4"/>
         </a></td>
 	  <td colspan="4" align="left" valign="center">
-        <p>&emsp;🤺 嗨，你好，我是<a href="https://github.com/zpy1160390580/">Yibeijiu</a>。</p>
-        <p>&emsp;🤺 通过代码的重复使用和延展构建完美体系，让世界更加美好。</p>
+        <p>&emsp;🤺 Hi, I am <a href="https://github.com/zpy1160390580/">Yibeijiu</a>。</p>
+        <p>&emsp;🤺 ---</p>
         <p>&emsp;🤺 <strong>The world breaks everyone and afterward many are strong at the broken places.</strong></p></td>
 	</tr>
     <tr>  <!-- 专业方向 -->
